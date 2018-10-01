@@ -1,0 +1,12 @@
+README
+
+Server will receive data from client, calculte the expression, and return result to client
+
+
+Server:
+
+start server: copy the server.py to your machine, run python3 server.py to start
+
+use client: 
+copy the client.py to your machine, change the server ip and port to your own server and then run python3 client.py to start.
+( Simply change the test case in the client.py file to test your own case)
